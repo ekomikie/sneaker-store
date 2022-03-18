@@ -99,7 +99,7 @@ nav {
 }
 
 .sliderPrice {
-  background-color: transparent;
+  
   position: absolute;
   top: 10%;
   left: 10%;
@@ -151,28 +151,31 @@ nav {
 }
 
 .sliderItem:nth-child(1) .sliderPrice {
+  background-color: white;
   color: #369e62;
   
 }
 
 .sliderItem:nth-child(2) .sliderPrice {
- 
+ background-color: white;
   color: rebeccapurple;
 }
 
 .sliderItem:nth-child(3) .sliderPrice {
+  background-color: white;
   color: teal;
   
 }
 
 .sliderItem:nth-child(4) .sliderPrice {
+  background-color: white;
   color: cornflowerblue;
- 
+
 }
 
 .sliderItem:nth-child(5) .sliderPrice {
-  color: cornsilk;
- 
+  background-color: white;
+  color: cornsilk; 
 }
 
 .features {
